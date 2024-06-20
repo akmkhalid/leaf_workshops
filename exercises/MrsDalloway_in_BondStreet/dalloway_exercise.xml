@@ -221,7 +221,7 @@
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
-            <p><placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225" cert="high">Big Ben<precision match="@ref" precision="high"/></placeName> was striking as she stepped out into the street. It was eleven o'clock and
+            <p><placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225" cert="high"><placeName>Big Ben</placeName><precision match="@ref" precision="high"/></placeName> was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
